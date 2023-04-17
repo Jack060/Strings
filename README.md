@@ -1,2 +1,2 @@
 # Strings
-programma in c# per lo studio delle stringhe
+programma in c# per la modifica delle stringhe
